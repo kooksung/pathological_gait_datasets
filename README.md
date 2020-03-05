@@ -7,6 +7,12 @@ Data Type: time, 0, joint0_x, joint0_y, joint0_z, 1, joint1_x, joint1_y, joint1_
 
 contact: kooksung930@gist.ac.kr
 
+<figure>
+  <img src="https://user-images.githubusercontent.com/4926634/75979702-679c9d80-5f24-11ea-85dd-4931df5881ff.PNG" alt="my alt text"/>
+  <figcaption>This is my caption text.</figcaption>
+</figure>
+
+
 Images
 -------------------
 <p align="center">
