@@ -11,8 +11,6 @@ Images
 -------------------
 <p align="center">
   <img width="250" src="https://user-images.githubusercontent.com/4926634/75979702-679c9d80-5f24-11ea-85dd-4931df5881ff.PNG" title="Normal" alt="accessibility text">
-  <br>
-  <em>caption</em>
     <img width="250" src="https://user-images.githubusercontent.com/4926634/75979729-75522300-5f24-11ea-8887-759f31c9bc83.PNG" title="Antalgic">
     <img width="250" src="https://user-images.githubusercontent.com/4926634/75979730-75eab980-5f24-11ea-9485-de0fd510bc6c.PNG" title="Stiff legged">
 </p>
