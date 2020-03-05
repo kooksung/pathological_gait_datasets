@@ -15,7 +15,7 @@ Images
    <img width="250" src="https://user-images.githubusercontent.com/4926634/75979730-75eab980-5f24-11ea-9485-de0fd510bc6c.PNG" title="Stiff legged">
 </p>
 
-                           Normal                  Antalgic Stiff               legged
+Normal                  Antalgic Stiff               legged
 
 
 <p align="center">
