@@ -17,6 +17,12 @@ Contact
 -------------------
 kooksung930@gm.gist.ac.kr
 
-Skeleton
+Pathological Gaits
 -------------------
-<img width=500 src="https://user-images.githubusercontent.com/4926634/75979702-679c9d80-5f24-11ea-85dd-4931df5881ff.PNG" title="Normal">
+<img width=500 src="https://user-images.githubusercontent.com/4926634/89141517-c754ae80-d57f-11ea-94c0-08650fb902bd.PNG" title="Skeleton">
+
+Data Collection
+-------------------
+<img width=500 src="https://user-images.githubusercontent.com/4926634/89141548-d2a7da00-d57f-11ea-8a69-0bcee1d5dc6b.PNG" Data Collection">
+
+
