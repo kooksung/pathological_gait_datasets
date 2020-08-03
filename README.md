@@ -1,6 +1,7 @@
 # Pathological Gait Datasets
 Skeleton datasets for Normal, Antalgic, Stiff legged, Lurching, Steppage, and Trendelenburg gaits.
-<img width=500 src="https://user-images.githubusercontent.com/4926634/89141517-c754ae80-d57f-11ea-94c0-08650fb902bd.PNG" title="Skeleton">
+
+<img width=900 src="https://user-images.githubusercontent.com/4926634/89141517-c754ae80-d57f-11ea-94c0-08650fb902bd.PNG" title="Skeleton">
 
 Data Quantity
 -------------------
@@ -14,7 +15,7 @@ Data Collection
 -------------------
 We collected datasets by using multiple Kinect system(6 Kinect v2). We calibrated the coordinate systems of all sensors by using ArUco Markers. For more information, please refer to the below reference or contact me.
 
-<img width=500 src="https://user-images.githubusercontent.com/4926634/89141548-d2a7da00-d57f-11ea-8a69-0bcee1d5dc6b.PNG" title="Data Collection">
+<img width=900 src="https://user-images.githubusercontent.com/4926634/89141548-d2a7da00-d57f-11ea-8a69-0bcee1d5dc6b.PNG" title="Data Collection">
 
 Reference
 -------------------
