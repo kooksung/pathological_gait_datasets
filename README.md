@@ -19,7 +19,7 @@ We collected datasets by using multiple Kinect system(6 Kinect v2). We calibrate
 
 Reference
 -------------------
-Kooksung Jun, Yongwoo Lee, Sanghyub Lee, Deok-Won Lee, Mun Sang Kim, "Pathological gait classification using Kinect v2 and gated recurrent neural networks," IEEE ACCESS, 2020.
+K. Jun, Y. Lee, S. Lee, D. Lee and M. S. Kim, "Pathological gait classification using Kinect v2 and gated recurrent neural networks,"  IEEE Access, doi: 10.1109/ACCESS.2020.3013029.
 
 Contact
 -------------------
