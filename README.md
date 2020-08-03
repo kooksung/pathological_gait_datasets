@@ -23,6 +23,6 @@ Pathological Gaits
 
 Data Collection
 -------------------
-<img width=500 src="https://user-images.githubusercontent.com/4926634/89141548-d2a7da00-d57f-11ea-8a69-0bcee1d5dc6b.PNG" Data Collection">
+<img width=500 src="https://user-images.githubusercontent.com/4926634/89141548-d2a7da00-d57f-11ea-8a69-0bcee1d5dc6b.PNG" title="Data Collection">
 
 
