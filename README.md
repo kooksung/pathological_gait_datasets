@@ -11,7 +11,7 @@ time, 0, joint0_x, joint0_y, joint0_z, 1, joint1_x, joint1_y, joint1_z, 2, joint
 
 Reference
 -------------------
-Kooksung Jun, Yongwoo Lee, Sanghyub Lee, Deok-Won Lee, Munsang Kim, "Pathological gait classification using Kinect v2 and gated recurrent neural networks," IEEE ACCESS, 2020.
+Kooksung Jun, Yongwoo Lee, Sanghyub Lee, Deok-Won Lee, Mun Sang Kim, "Pathological gait classification using Kinect v2 and gated recurrent neural networks," IEEE ACCESS, 2020.
 
 Contact
 -------------------
