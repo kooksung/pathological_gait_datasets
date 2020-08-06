@@ -1,5 +1,3 @@
-"#gait"
-
 # Pathological Gait Datasets
 Skeleton datasets for Normal, Antalgic, Stiff legged, Lurching, Steppage, and Trendelenburg gaits.
 
